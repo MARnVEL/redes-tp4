@@ -17,18 +17,18 @@ Consta de varios protocolos individuales, y cada uno tiene funciones específica
 
 - IP (Internet Protocol):
 
-      * **Direccionamiento**: IP es responsable de *asignar direcciones únicas a cada dispositivo en una red IP*, lo que permite que los datos se enruten correctamente a su destino.
-      * **Enrutamiento**: IP *determina la mejor ruta para que los paquetes de datos viajen desde el remitente hasta el destinatario* a través de una red de múltiples dispositivos interconectados.
+      * Direccionamiento: IP es responsable de **asignar direcciones únicas a cada dispositivo en una red IP**, lo que permite que los datos se enruten correctamente a su destino.
+      * Enrutamiento: IP **determina la mejor ruta para que los paquetes de datos viajen desde el remitente hasta el destinatario** a través de una red de múltiples dispositivos interconectados.
 
 - TCP (Transmission Control Protocol):
 
-      * **Control de flujo**: TCP asegura que los datos se transmitan de manera confiable y en orden entre dos dispositivos. Esto se logra mediante la numeración y el seguimiento de los paquetes de datos, así como la solicitud de retransmisión en caso de pérdida o daño de datos.
+      * Control de flujo: TCP **asegura que los datos se transmitan de manera confiable y en orden** entre dos dispositivos. Esto se logra mediante la *numeración y el seguimiento de los paquetes de datos*, así como la *solicitud de retransmisión en caso de pérdida o daño de datos*.
       * Establecimiento y finalización de conexiones: TCP permite la creación de conexiones entre dos dispositivos a través de un "proceso de tres vías de apretón de manos (handshake)" y su cierre adecuado al finalizar la comunicación.
-      * Segmentación y reensamblaje: TCP divide los datos en segmentos más pequeños para su transmisión y luego los reensambla en el orden correcto **en el destino**.
+      * Segmentación y reensamblaje: TCP divide los datos en segmentos más pequeños para su transmisión y luego los **reensambla en el orden correcto en el destino**.
 
 - UDP (User Datagram Protocol):
 
-      * Transmisión sin conexión: A diferencia de TCP, UDP es un protocolo sin conexión que no garantiza la entrega de datos ni el orden. Es útil para aplicaciones que requieren una transmisión rápida y no crítica de datos, como la transmisión de audio y video en tiempo real.
+      * Transmisión sin conexión: A diferencia de TCP, UDP es un protocolo sin conexión que no garantiza la entrega de datos ni el orden. Es **útil para aplicaciones que requieren una transmisión rápida y no crítica de datos, como la transmisión de audio** y video en tiempo real.
 
 - DNS (Domain Name System):
 
@@ -36,11 +36,11 @@ Consta de varios protocolos individuales, y cada uno tiene funciones específica
 
 - HTTP (Hypertext Transfer Protocol):
 
-      * Transferencia de hipertexto: HTTP es un protocolo de la capa de aplicación utilizado para la transferencia de páginas web y otros recursos en la World Wide Web. Facilita la solicitud y la respuesta entre navegadores web y servidores web.
+      * Transferencia de hipertexto: HTTP es un **protocolo de la capa de aplicación utilizado para la transferencia de páginas web y otros recursos en la World Wide Web**. Facilita la solicitud y la respuesta entre navegadores web y servidores web.
 
 - SMTP (Simple Mail Transfer Protocol) y POP/IMAP:
 
-      * Correo electrónico: SMTP se utiliza para enviar correos electrónicos desde un cliente de correo a un servidor de correo, mientras que POP (Post Office Protocol) e IMAP (Internet Message Access Protocol) se utilizan para recibir correos electrónicos desde un servidor de correo a un cliente de correo.
+      * Correo electrónico: SMTP se utiliza para **enviar correos electrónicos desde un cliente de correo a un servidor de correo**, mientras que POP (Post Office Protocol) e IMAP (Internet Message Access Protocol) se utilizan para recibir correos electrónicos desde un servidor de correo a un cliente de correo.
 
 - FTP (File Transfer Protocol):
 
