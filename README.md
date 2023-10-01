@@ -108,13 +108,63 @@ Conjunto descentralizado de redes de comunicación interconectados que utilizan 
 
 ## ¿A qué se refiere la estandarización de las redes?
 
+La estandarización de las redes se refiere a los estándares que se aplican y deben cumplir los distribuidores y proveedores de servicios de red.
+Es un proceso de establecer conjuntos de reglas, protocolos y especificaciones técnicas comunes que garantizan la interoperabilidad y la compatibilidad entre dispositivos y sistemas de comunicación en una red de computadoras. Estos estándares son esenciales para que las redes funcionen de manera eficiente y efectiva, permitiendo que dispositivos de diferentes fabricantes y sistemas operativos se comuniquen entre sí de manera coherente y sin problemas.
+Los estándares son solo reglas que definen como deben funcionar las cosas, permitiendo una uniformidad que es necesaria para que no haya problemas de compatibilidad.
+
 # Pregunta 6
 
 ## ¿Cuál es la función del ITU?
 
+La "International Telecommunication Union" es una agencia especializada de las Naciones Unidas que se encarga de coordinar y regular los asuntos relacionados con las telecomunicaciones y la tecnología de la información a nivel global. La UIT (siglas en español) desempeña un papel fundamental en el desarrollo y la estandarización de las tecnologías de la información y las comunicaciones (TIC) en todo el mundo.
+Algunas de sus funciones principales son:
+
+1. Desarrollo de Estándares: trabaja en el desarrollo y la promulgación de estándares técnicos que aseguran la interoperabilidad y la compatibilidad entre diferentes sistemas y redes de telecomunicaciones. Esto incluye estándares para protocolos de comunicación, compresión de datos, calidad de servicio, y otros aspectos tecnológicos clave.
+
+2. Asignación de Espectro de Frecuencia: **asigna y regula el uso de las bandas de frecuencia del espectro radioeléctrico a nivel internacional**. Esto es esencial para garantizar que las comunicaciones inalámbricas, como la telefonía móvil, la radiodifusión y las comunicaciones satelitales, funcionen sin interferencias y de manera ordenada en todo el mundo.
+
+3. Cooperación Internacional: Facilita la cooperación entre los países y las organizaciones en cuestiones relacionadas con las telecomunicaciones y la tecnología de la información. Ayuda a resolver disputas transfronterizas y fomenta la colaboración en proyectos internacionales.
+
+4. Política y Regulación: Proporciona orientación y asesoramiento en la formulación de políticas y regulaciones relacionadas con las TIC. Esto incluye **cuestiones de privacidad, seguridad cibernética, acceso a la información y regulación de mercados** de telecomunicaciones.
+
+5. Desarrollo de Capacidades: La UIT trabaja para **mejorar las capacidades técnicas y de gestión de los países en desarrollo** en el campo de las TIC. Esto incluye programas de formación, asistencia técnica y promoción del acceso a las TIC en todo el mundo.
+
+6. Cumbres y Conferencias Mundiales: Organiza conferencias y cumbres mundiales sobre telecomunicaciones, como la Conferencia Mundial de Radiocomunicaciones (CMR) y la Cumbre Mundial sobre la Sociedad de la Información (CMSI), donde se discuten y establecen directrices globales en materia de TIC.
+
+7. Investigación y Desarrollo: Fomenta la **investigación y el desarrollo en el campo de las telecomunicaciones y la tecnología de la información**, promoviendo la innovación y el avance tecnológico.
+
 # Pregunta 7
 
 ## ¿Qué son ITU-T, la IETF y la ISO?
+
+### ITU-T
+
+La tarea del sector ITU-T es hacer recomendaciones técnicas sobre las interfaces de telefonía telegrafía y comunicación de datos. A menudo estas recomendaciones se convierten en estándares con reconocimiento internacional, aunque técnicamente las recomendaciones son sólo sugerencias que los gobiernos pueden adoptar o ignorar según lo deseen.
+
+### IETF
+
+La IETF (Internet Engineering Task Force) es una organización internacional y una comunidad abierta de ingenieros, diseñadores, operadores de redes y otros profesionales interesados en la evolución y el desarrollo de las tecnologías y protocolos de Internet. La IETF tiene un **enfoque específico en la creación de estándares abiertos y documentos técnicos que impulsan el funcionamiento, la seguridad y la interoperabilidad de Internet**.
+
+La IETF desarrolla y promueve estándares de Internet, cuerpos estándares y referentes en particular a las normas del protocolo TCP / IP y el conjunto de protocolos de Internet.
+
+La misión de la IETF está documentada en RFC (Request for Comments, o en español Solicitud de comentarios). Los RFC son una serie de notas sobre Internet. Cada una de ellas es un documento cuyo contenido es una propuesta oficial para un nuevo protocolo de la red Internet, que se explica con todo detalle para que en caso de ser aceptado pueda ser implementado sin ambigüedades
+
+Las principales características y funciones de la IETF incluyen:
+
+1. **Desarrollo de Estándares**: trabaja en el desarrollo y la estandarización de protocolos y tecnologías clave para Internet. Esto incluye protocolos de comunicación como TCP/IP, HTTP, SMTP, DNS y muchos otros que son fundamentales para el funcionamiento de la red.
+2. **Colaboración Abierta**: opera en un modelo de colaboración abierta y voluntaria, donde los expertos de todo el mundo pueden participar en grupos de trabajo y contribuir con sus conocimientos y experiencias. **No es una organización con membresía formal**, y cualquiera puede unirse a sus actividades.
+
+3. **Reuniones y Listas de Correo**: La IETF organiza reuniones presenciales y mantiene listas de correo electrónico donde los participantes discuten y debaten los problemas técnicos y los estándares en desarrollo.
+
+4. **RFC (Request for Comments)**: Los estándares desarrollados por la IETF se documentan en RFC, que son documentos técnicos que describen protocolos, prácticas y estándares relacionados con Internet. Los RFC son ampliamente reconocidos y utilizados en todo el mundo.
+
+5. **Enfoque en la Capa de Aplicación**: Aunque la IETF aborda una amplia gama de temas relacionados con Internet, su **enfoque principal se centra en la capa de aplicación de la arquitectura de Internet**, lo que significa que se ocupan de protocolos y estándares utilizados en aplicaciones y servicios.
+
+6. **Evolución Continua**: **se adapta y evoluciona constantemente para abordar los desafíos** cambiantes de Internet. A medida que surgen nuevas tecnologías y necesidades, la IETF trabaja en la creación de estándares que permitan la expansión y mejora de la red.
+
+### ISO
+
+Los estándares internacionales son producidos por la ISO (Organización Internacional de Estándares, del inglés International Standards Organization), una organización voluntaria no surgida de un tratado y fundada en 1946. Sus miembros son las organizaciones nacionales de estándares de los 157 países miembros.
 
 # Pregunta 8
 
