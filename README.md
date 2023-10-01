@@ -63,6 +63,7 @@ Se encarga de las características del medio de comunicación.
 ### Capa de Acceso a la Red
 
 Responsable del intercambio de datos entre el sistema final (servidor, estación de trabajo, etc.) y la red a la cual está conectado. El emisor debe proporcionar a la red la dirección del destino, de tal manera que esta pueda encaminar los datos hasta el destino apropiado. El emisor puede requerir ciertos servicios que pueden ser proporcionados por el nivel de red, por ejemplo, solicitar una determinada prioridad.
+
 Se encarga de enviar un paquete desde nuestro equipo hasta el receptor.
 
 ### Capa de Internet
@@ -73,7 +74,7 @@ En esta capa se utiliza el protocolo de internet (IP).
 
 ### Capa de Transporte (o capa de extremo a extremo)
 
-Sin que importe la naturaleza de las apps que estén intercambiando datos, **es usual el requerimiento de que _los datos de intercambien de forma fiable**_. Esta capa revisa que los datos lleguen de manera "fiable". **Los mecanismos que proporcionan esta fiabilidad son independientes de la naturaleza de las aplicaciones**. Estos "mecanismos" se encuentran agrupados en esta única capa común.
+Sin que importe la naturaleza de las apps que estén intercambiando datos, **es usual el requerimiento de que *los datos de intercambien de forma fiable***. Esta capa revisa que los datos lleguen de manera "fiable". **Los mecanismos que proporcionan esta fiabilidad son independientes de la naturaleza de las aplicaciones**. Estos "mecanismos" se encuentran agrupados en esta única capa común.
 Dentro de esta capa está el TCP, y es el más utilizado para proporcionar la fiabilidad necesaria.
 
 ### Capa de aplicación
@@ -109,7 +110,9 @@ Conjunto descentralizado de redes de comunicación interconectados que utilizan 
 ## ¿A qué se refiere la estandarización de las redes?
 
 La estandarización de las redes se refiere a los estándares que se aplican y deben cumplir los distribuidores y proveedores de servicios de red.
+
 Es un proceso de establecer conjuntos de reglas, protocolos y especificaciones técnicas comunes que garantizan la interoperabilidad y la compatibilidad entre dispositivos y sistemas de comunicación en una red de computadoras. Estos estándares son esenciales para que las redes funcionen de manera eficiente y efectiva, permitiendo que dispositivos de diferentes fabricantes y sistemas operativos se comuniquen entre sí de manera coherente y sin problemas.
+
 Los estándares son solo reglas que definen como deben funcionar las cosas, permitiendo una uniformidad que es necesaria para que no haya problemas de compatibilidad.
 
 # Pregunta 6
@@ -147,7 +150,7 @@ La IETF (Internet Engineering Task Force) es una organización internacional y u
 
 La IETF desarrolla y promueve estándares de Internet, cuerpos estándares y referentes en particular a las normas del protocolo TCP / IP y el conjunto de protocolos de Internet.
 
-La misión de la IETF está documentada en RFC (Request for Comments, o en español Solicitud de comentarios). Los RFC son una serie de notas sobre Internet. Cada una de ellas es un documento cuyo contenido es una propuesta oficial para un nuevo protocolo de la red Internet, que se explica con todo detalle para que en caso de ser aceptado pueda ser implementado sin ambigüedades
+La misión de la IETF está documentada en RFC (Request for Comments, o en español Solicitud de comentarios). Los RFC son una serie de notas sobre Internet. Cada una de ellas es un documento cuyo contenido es una propuesta oficial para un nuevo protocolo de la red Internet, que se explica con todo detalle para que, en caso de ser aceptado, pueda ser implementado sin ambigüedades.
 
 Las principales características y funciones de la IETF incluyen:
 
@@ -164,8 +167,15 @@ Las principales características y funciones de la IETF incluyen:
 
 ### ISO
 
-Los estándares internacionales son producidos por la ISO (Organización Internacional de Estándares, del inglés International Standards Organization), una organización voluntaria no surgida de un tratado y fundada en 1946. Sus miembros son las organizaciones nacionales de estándares de los 157 países miembros.
+Los estándares internacionales son producidos por la ISO (Organización Internacional de Estándares, del inglés International Standards Organization), una organización internacional independiente no gubernamental, surgida de un tratado y fundada en 1946. Sus miembros son las organizaciones nacionales de estándares de los 157 países miembros.
 
 # Pregunta 8
 
 ## ¿En qué versión de la web cree que estamos? Justifique
+
+Creo que nos encontramos aún en la versión 3 de la web, experimentando una web 3 desarrollada y madura, con grandes prestaciones, ya que el objetivo original de "crear sitios web más inteligentes, conectados y abiertos" está cumplido y con creces.
+
+Ahora bien, se vislumbra una nueva forma de interconexión donde el rol de los usuarios cobra cada vez mayor protagonismo y las redes decentralizadas son la punta de lanza de esta nueva forma de interacción.
+También se experimenta un crecimiento expoonencial de dispositivos inteligentes conectados a la web e interactuando entre ellos. Lo que proporciona una nueva forma de las personas de interactuar con el medio.
+La inteligencia artificial parece estar en su boom inicial.
+Los últimos 3 puntos me hacen pensar que estamos ante un cambio de época, pero aún falta para afirmar que efectivamente iniciamos la web 4.
